@@ -1,0 +1,12 @@
+
+build/lib/cnpj_field/__init__.py
+build/lib/cnpj_field/forms.py
+build/lib/cnpj_field/models.py
+build/lib/cnpj_field/validators.py
+cnpj_field/validators.py
+dist/django-CNPJField-1.tar.gz
+dist/django_CNPJField-1-py3-none-any.whl
+django_CNPJField.egg-info/dependency_links.txt
+django_CNPJField.egg-info/PKG-INFO
+django_CNPJField.egg-info/SOURCES.txt
+django_CNPJField.egg-info/top_level.txt
